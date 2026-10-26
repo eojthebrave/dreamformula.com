@@ -1,0 +1,31 @@
+# dreamformula.com
+
+> Personal and professional website for Joe Shindelar, a developer educator, Drupal contributor, speaker, writer, and internet nerd in Minneapolis, Minnesota.
+
+This site includes background information, selected work, speaking highlights, writing, and links to Joe Shindelar's public profiles.
+
+## Primary Sources
+
+- [Home](https://dreamformula.com/)
+- [Markdown version](https://dreamformula.com/index.md)
+- [Speaking history CSV](https://dreamformula.com/talks.csv)
+
+## Profiles
+
+- [Drupal.org](https://www.drupal.org/u/eojthebrave)
+- [GitHub](https://github.com/eojthebrave)
+- [LinkedIn](https://www.linkedin.com/in/joe-shindelar/)
+- [Bluesky](https://bsky.app/profile/eojthebrave.bsky.social)
+
+## Topics
+
+- Drupal
+- Developer education
+- Developer experience
+- Developer advocacy
+- Technical education
+- Technical writing
+- Documentation
+- Speaking and training
+- Front-end development
+- Module development

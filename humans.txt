@@ -1,0 +1,11 @@
+/* TEAM */
+
+Creator: Joe Shindelar
+Site: https://dreamformula.com/
+Location: Minneapolis, Minnesota, USA
+Social: @eojthebrave
+
+/* SITE */
+
+Language: English
+Standards: HTML, CSS

@@ -1,0 +1,3 @@
+Contact: https://www.linkedin.com/in/joe-shindelar/
+Preferred-Languages: en
+Canonical: https://dreamformula.com/.well-known/security.txt
