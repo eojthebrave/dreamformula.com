@@ -8,8 +8,4 @@
     <loc>https://dreamformula.com/index.md</loc>
     <priority>0.6</priority>
   </url>
-  <url>
-    <loc>https://dreamformula.com/talks.csv</loc>
-    <priority>0.5</priority>
-  </url>
 </urlset>

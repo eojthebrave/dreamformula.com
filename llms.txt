@@ -8,7 +8,6 @@ This site includes background information, selected work, speaking highlights, w
 
 - [Home](https://dreamformula.com/)
 - [Markdown version](https://dreamformula.com/index.md)
-- [Speaking history CSV](https://dreamformula.com/talks.csv)
 
 ## Profiles
 

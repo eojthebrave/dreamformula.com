@@ -16,7 +16,7 @@ To preview locally, serve the repo root with any static server, e.g. `python3 -m
 - `index.css` — all styles. It uses CSS custom properties on `:root` for colors and the three font stacks (`--serif`, `--sans`, `--fixed`). Class names are BEM-ish with a prefix: `site--*`, `post--*`, `l-*` for layout. The full-width colored bands between sections are `site--breaker site--breaker_{blue,green,red,yellow}`.
 - `index.md` — a Markdown copy of the page content, linked from `index.html` as `rel="alternate" type="text/markdown"`.
 - `llms.txt`, `humans.txt`, `robots.txt`, `sitemap.xml`, `.well-known/security.txt` — machine-readable site files.
-- `talks.csv` — full speaking history (`Date,Event,Location,Type,Title,URL`). The page lists only selected highlights.
+- `talks.csv` — full speaking history, kept locally only. It is gitignored and not published, so don't commit it or link to it.
 - `assets/` — favicon and the 1200×630 social card used by the OG/Twitter image tags.
 
 ## Keeping content in sync
@@ -27,4 +27,4 @@ The same content is duplicated by hand across several files. When you edit page 
 - Profile links (Drupal.org, GitHub, LinkedIn, Bluesky): `index.html` (both the visible list and the JSON-LD `sameAs` array), `index.md`, and `llms.txt`.
 - Site description/tagline: `<meta name="description">`, `og:description`, `twitter:description`, and the summary in `llms.txt`.
 - New public files or URLs: add them to `sitemap.xml` and, where relevant, to the "Site Files" list in `index.md` and "Primary Sources" in `llms.txt`.
-- New talks: add a row to `talks.csv`. Change the page's highlights list only if the talk should be featured.
+- New talks: add a row to the local `talks.csv`. Change the page's highlights list only if the talk should be featured.

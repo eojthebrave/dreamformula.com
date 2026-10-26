@@ -56,7 +56,6 @@ Over the years I've written 800+ tutorials and documentation guides covering Dru
 ## Site Files
 
 - [Canonical site](https://dreamformula.com/)
-- [Speaking history CSV](talks.csv)
 - [Favicon](assets/favicon.png)
 - [Social preview image](assets/social-card.png)
 - [Humans.txt](humans.txt)
