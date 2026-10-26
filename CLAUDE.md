@@ -16,7 +16,7 @@ To preview locally, serve the repo root with any static server, e.g. `python3 -m
 - `index.css` — all styles. It uses CSS custom properties on `:root` for colors and the three font stacks (`--serif`, `--sans`, `--fixed`). Class names are BEM-ish with a prefix: `site--*`, `post--*`, `l-*` for layout. The full-width colored bands between sections are `site--breaker site--breaker_{blue,green,red,yellow}`.
 - `index.md` — a Markdown copy of the page content, linked from `index.html` as `rel="alternate" type="text/markdown"`.
 - `llms.txt`, `humans.txt`, `robots.txt`, `sitemap.xml`, `.well-known/security.txt` — machine-readable site files.
-- `talks.csv` — full speaking history (`Date,Event,City/Virtual,Type,Title/Topic,Link/Notes,URL`). The page lists only selected highlights.
+- `talks.csv` — full speaking history (`Date,Event,Location,Type,Title,URL`). The page lists only selected highlights.
 - `assets/` — favicon and the 1200×630 social card used by the OG/Twitter image tags.
 
 ## Keeping content in sync
